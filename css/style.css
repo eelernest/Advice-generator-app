@@ -1,10 +1,9 @@
-.attribution { font-size: 11px; text-align: center; margin-top: 40vh; color: white; }
+.attribution { font-size: 11px; text-align: center; margin-top: 35vh; color: white; }
 .attribution a { color: hsl(228, 69%, 78%); }
 body{
     background-color: #202632;
     display: flex;
     justify-content: center;
-    
 }
 section{
     position: relative;
@@ -17,8 +16,8 @@ section{
 #identif{
     text-align: center;
     margin-top: 2vh;
-    padding: 10px;
-    font-size: 1.5rem;
+    padding: 25px;
+    font-size: 1rem;
     font-weight: 600;
     font-family: Manrope,sans-serif;
     color: #57ffb0;
@@ -46,7 +45,6 @@ section{
     margin-top: 5%;
 }
 .img-foot .fooot2{
-    height: 85px;
     margin-top: 5%;
 }
 .btn:hover{
