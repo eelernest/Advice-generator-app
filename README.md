@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code in github]https://github.com/eelernest/Advice-generator-app)
+- Solution URL: [Code in github](https://github.com/eelernest/Advice-generator-app)
 - Live Site URL: [Live :)](https://eelernest.github.io/Advice-generator-app/)
 
 ## My process
